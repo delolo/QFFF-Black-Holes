@@ -1,0 +1,44 @@
+
+\begin{table}[t!]
+\begin{center}
+\small
+\begin{tabular}{p{0.4\textwidth} p{0.4\textwidth}}
+\toprule
+%\multicolumn{1}{c}{\textbf{Law}} &
+\multicolumn{1}{c}{\textbf{Left Rindler Wedge $L$}} & 
+\multicolumn{1}{c}{\textbf{Right Rindler Wedge $R$}}\\
+\midrule 
+\be\bal
+t&=-a^{-1}e^{a\xi_L}\sinh a\eta_L\\
+x&=-a^{-1}e^{a\xi_L}\cosh a\eta_L\\
+&\\
+u_L&=\eta_L-\xi_L\\
+v_L&=\eta_L+\xi_L\\
+&\\
+\bar u&=a^{-1}e^{-au_R}\\
+\bar v&=-a^{-1}e^{av_R}\\
+&\\
+ds^2&=e^{2a\xi_L}(-d\eta_L^2+d\xi_L^2)\\
+&=-e^{2a\xi_L}du_Ldv_L\nonumber
+\eal\ee
+&
+\be\bal
+t&=a^{-1}e^{a\xi_R}\sinh a\eta_R\\
+x&=a^{-1}e^{a\xi_R}\cosh a\eta_R\\
+&\\
+u_R&=\eta_R-\xi_R\\
+v_R&=\eta_R+\xi_R\\
+&\\
+\bar u&=-a^{-1}e^{-au_L}\\
+\bar v&=a^{-1}e^{av_L}\\
+&\\
+ds^2&=e^{2a\xi_R}(-d\eta_R^2+d\xi_R^2)\\
+&=-e^{2a\xi_R}du_Rdv_R\nonumber
+\eal\ee
+\\
+\bottomrule
+\end{tabular}
+\end{center}
+\caption[.]{Coordinates in the left and right Rindler wedges and their relations to Minkowski coordinates.}
+\label{tab:rindler}
+\end{table}

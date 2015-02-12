@@ -1,0 +1,1703 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  12 FEB 2015 13:23
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**bh.tex
+(./bh.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen103
+\lightrulewidth=\dimen104
+\cmidrulewidth=\dimen105
+\belowrulesep=\dimen106
+\belowbottomsep=\dimen107
+\aboverulesep=\dimen108
+\abovetopsep=\dimen109
+\cmidrulesep=\dimen110
+\cmidrulekern=\dimen111
+\defaultaddspace=\dimen112
+\@cmidla=\count87
+\@cmidlb=\count88
+\@aboverulesep=\dimen113
+\@belowrulesep=\dimen114
+\@thisruleclass=\count89
+\@lastruleclass=\count90
+\@thisrulewidth=\dimen115
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen116
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen117
+\extrarowheight=\dimen118
+\NC@list=\toks14
+\extratabsurround=\skip43
+\backup@length=\skip44
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/frame/frame.sty
+Package: frame 2010/05/15 package wrapper for frame.tex (hv)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/frame/frame.tex
+  v1.0  2010/05/15  <tvz>
+\fancyboxA=\box26
+\fancyboxB=\box27
+\fancyboxD=\dimen119
+)
+File: frame.tex 2010/05/15 v1.0 `frame' (tvz,hv)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+)
+\epsfxsize=\dimen122
+\epsfysize=\dimen123
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen124
+\WF@size=\dimen125
+\c@WF@wrappedlines=\count92
+\WF@box=\box28
+\WF@everypar=\toks16
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pstool/pstool.sty
+Package: pstool 2014/05/11 v1.5c Wrapper for processing PostScript/psfrag figur
+es
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/catchfile.sty
+Package: catchfile 2011/03/01 v1.6 Catch the contents of a file (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 137.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+Package: ifplatform 2010/10/22 v0.4 Testing for the operating system
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+
+Package ifplatform Warning: 
+    shell escape is disabled, so I can only detect \ifwindows.
+
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/filemod/filemod.sty
+Package: filemod 2011/09/19 v1.2 Get and compare file modification times
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/filemod/filemod-expmin.sty
+Package: filemod-expmin 2011/09/19 v1.2 Get and compare file modification times
+ (expandable; minimal)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psfrag/psfrag.sty
+Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
+\pfg@pcount=\count93
+\pfg@scount=\count94
+\pfg@temp=\write3
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/bigfoot/suffix.sty
+Package: suffix 2006/07/15 1.5 Variant command support
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/05/09 v2.6d package option processing (HA)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+\XKV@depth=\count95
+File: xkeyval.tex 2014/05/09 v2.6d key=value parser (HA)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2014/05/20 v4814 L3 programming layer (loader) 
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2014/05/20 v4814 L3 programming layer (code) 
+L3 Module: l3bootstrap 2014/05/16 v4782 L3 Bootstrap code
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count96
+)
+L3 Module: l3names 2014/05/04 v4728 L3 Namespace for primitives
+L3 Module: l3basics 2014/05/04 v4728 L3 Basic definitions
+L3 Module: l3expan 2014/04/30 v4712 L3 Argument expansion
+L3 Module: l3tl 2014/05/04 v4728 L3 Token lists
+L3 Module: l3seq 2014/04/30 v4712 L3 Sequences and stacks
+L3 Module: l3int 2014/05/16 v4776 L3 Integers
+\c_max_int=\count97
+\l_tmpa_int=\count98
+\l_tmpb_int=\count99
+\g_tmpa_int=\count100
+\g_tmpb_int=\count101
+L3 Module: l3quark 2014/05/04 v4728 L3 Quarks
+L3 Module: l3prg 2014/05/04 v4728 L3 Control structures
+\g__prg_map_int=\count102
+L3 Module: l3clist 2014/05/04 v4728 L3 Comma separated lists
+L3 Module: l3token 2014/05/04 v4728 L3 Experimental token manipulation
+L3 Module: l3prop 2014/04/30 v4712 L3 Property lists
+L3 Module: l3msg 2014/05/04 v4728 L3 Messages
+L3 Module: l3file 2014/05/05 v4737 L3 File and I/O operations
+\l_iow_line_count_int=\count103
+\l__iow_target_count_int=\count104
+\l__iow_current_line_int=\count105
+\l__iow_current_word_int=\count106
+\l__iow_current_indentation_int=\count107
+L3 Module: l3skip 2014/05/05 v4738 L3 Dimensions and skips
+\c_zero_dim=\dimen126
+\c_max_dim=\dimen127
+\l_tmpa_dim=\dimen128
+\l_tmpb_dim=\dimen129
+\g_tmpa_dim=\dimen130
+\g_tmpb_dim=\dimen131
+\c_zero_skip=\skip45
+\c_max_skip=\skip46
+\l_tmpa_skip=\skip47
+\l_tmpb_skip=\skip48
+\g_tmpa_skip=\skip49
+\g_tmpb_skip=\skip50
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+L3 Module: l3keys 2014/05/08 v4753 L3 Key-value interfaces
+\g__keyval_level_int=\count108
+\l_keys_choice_int=\count109
+L3 Module: l3fp 2014/04/30 v4712 L3 Floating points
+\c__fp_leading_shift_int=\count110
+\c__fp_middle_shift_int=\count111
+\c__fp_trailing_shift_int=\count112
+\c__fp_big_leading_shift_int=\count113
+\c__fp_big_middle_shift_int=\count114
+\c__fp_big_trailing_shift_int=\count115
+\c__fp_Bigg_leading_shift_int=\count116
+\c__fp_Bigg_middle_shift_int=\count117
+\c__fp_Bigg_trailing_shift_int=\count118
+L3 Module: l3box 2014/05/04 v4728 L3 Experimental boxes
+\c_empty_box=\box29
+\l_tmpa_box=\box30
+\l_tmpb_box=\box31
+\g_tmpa_box=\box32
+\g_tmpb_box=\box33
+L3 Module: l3coffins 2014/05/04 v4728 L3 Coffin code layer
+\l__coffin_internal_box=\box34
+\l__coffin_internal_dim=\dimen132
+\l__coffin_offset_x_dim=\dimen133
+\l__coffin_offset_y_dim=\dimen134
+\l__coffin_x_dim=\dimen135
+\l__coffin_y_dim=\dimen136
+\l__coffin_x_prime_dim=\dimen137
+\l__coffin_y_prime_dim=\dimen138
+\c_empty_coffin=\box35
+\l__coffin_aligned_coffin=\box36
+\l__coffin_aligned_internal_coffin=\box37
+\l_tmpa_coffin=\box38
+\l_tmpb_coffin=\box39
+\l__coffin_display_coffin=\box40
+\l__coffin_display_coord_coffin=\box41
+\l__coffin_display_pole_coffin=\box42
+\l__coffin_display_offset_dim=\dimen139
+\l__coffin_display_x_dim=\dimen140
+\l__coffin_display_y_dim=\dimen141
+L3 Module: l3color 2014/04/30 v4712 L3 Experimental color support
+L3 Module: l3luatex 2014/04/30 v4712 L3 Experimental LuaTeX-specific functions
+\g__cctab_allocate_int=\count119
+\g__cctab_stack_int=\count120
+L3 Module: l3candidates 2014/05/04 v4734 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen142
+\l__box_bottom_dim=\dimen143
+\l__box_left_dim=\dimen144
+\l__box_right_dim=\dimen145
+\l__box_top_new_dim=\dimen146
+\l__box_bottom_new_dim=\dimen147
+\l__box_left_new_dim=\dimen148
+\l__box_right_new_dim=\dimen149
+\l__box_internal_box=\box43
+\l__coffin_bounding_shift_dim=\dimen150
+\l__coffin_left_corner_dim=\dimen151
+\l__coffin_right_corner_dim=\dimen152
+\l__coffin_bottom_corner_dim=\dimen153
+\l__coffin_top_corner_dim=\dimen154
+\l__coffin_scaled_total_height_dim=\dimen155
+\l__coffin_scaled_width_dim=\dimen156
+))
+\pstool@out=\write4
+\pstool@mainfile@ior=\read1
+\pstool@auxfile@ior=\read2
+
+
+Package pstool Warning: 
+  Package option [process=none] activated
+  because -shell-escape is not enabled.
+This warning occurred on input line 137.
+
+runsystem(cd ""; cp -- "bh.aux" "bh.oldaux" )...disabled (restricted).
+
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/bold-extra/bold-extra.sty
+Package: bold-extra 2001/11/13 v0.1 Use fonts from cm/mf-extra/bold
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/moresize/moresize.sty
+Package: moresize 1999/07/26 v1.9 (more font sizes)
+)
+(./jheppub.sty
+Package: jheppub 2012/06/08 r448
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks19
+\ex@=\dimen157
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen158
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count121
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count122
+\leftroot@=\count123
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count124
+\DOTSCASE@=\count125
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box44
+\strutbox@=\box45
+\big@size=\dimen159
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count126
+\c@MaxMatrixCols=\count127
+\dotsspace@=\muskip16
+\c@parentequation=\count128
+\dspbrk@lvl=\count129
+\tag@help=\toks20
+\row@=\count130
+\column@=\count131
+\maxfields@=\count132
+\andhelp@=\toks21
+\eqnshift@=\dimen160
+\alignsep@=\dimen161
+\tagshift@=\dimen162
+\tagwidth@=\dimen163
+\totwidth@=\dimen164
+\lineht@=\dimen165
+\@envbody=\toks22
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip54
+\bibsep=\skip55
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count133
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen166
+\Hy@linkcounter=\count134
+\Hy@pagecounter=\count135
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count136
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+
+
+Package hyperref Warning: Option `pagecolor' is not available anymore.
+
+Package hyperref Info: Option `linktocpage' set `true' on input line 4319.
+Package hyperref Info: Option `pdfa' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count137
+(/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen167
+\Fld@menulength=\count138
+\Field@Width=\dimen168
+\Fld@charsize=\dimen169
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode ON on input line 6323.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count139
+\c@Item=\count140
+\c@Hfootnote=\count141
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+Package hyperref Info: \pdfminorversion:=4 on input line 215.
+\Fld@listcount=\count142
+\c@bookmark@seq@number=\count143
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip56
+)
+\auth@toks=\toks24
+\affil@toks=\toks25
+\email@toks=\toks26
+\c@email@counter=\count144
+\affiliationsSep=\skip57
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 141.
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks27
+\thm@bodyfont=\toks28
+\thm@headfont=\toks29
+\thm@notefont=\toks30
+\thm@headpunct=\toks31
+\thm@preskip=\skip58
+\thm@postskip=\skip59
+\thm@headsep=\skip60
+\dth@everypar=\toks32
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+\c@theorem=\count145
+\c@example=\count146
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box46
+\beforetitleunit=\skip61
+\aftertitleunit=\skip62
+\ttl@plus=\dimen170
+\ttl@minus=\dimen171
+\ttl@toksa=\toks33
+\titlewidth=\dimen172
+\titlewidthlast=\dimen173
+\titlewidthfirst=\dimen174
+) (./bh.aux)
+\openout1 = `bh.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count147
+\scratchdimen=\dimen175
+\scratchbox=\box47
+\nofMPsegments=\count148
+\nofMParguments=\count149
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count150
+\MPscratchDim=\dimen176
+\MPnumerator=\count151
+\makeMPintoPDFobject=\count152
+\everyMPtoPDFconversion=\toks35
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box48
+Package hyperref Info: Link coloring ON on input line 99.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count153
+)
+LaTeX Info: Redefining \ref on input line 99.
+LaTeX Info: Redefining \pageref on input line 99.
+LaTeX Info: Redefining \nameref on input line 99.
+
+(./bh.out) (./bh.out)
+\@outlinefile=\write5
+\openout5 = `bh.out'.
+
+
+
+Package JHEP Warning: E-mails are missing.
+(JHEP)                Plese use \emailAdd macro to provide e-mails..
+
+[0
+Non-PDF special ignored!
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./bh.t
+oc
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write6
+\openout6 = `bh.toc'.
+
+ [1]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 110.
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 110.
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 149--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--158
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 195--197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--211
+
+ []
+
+
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./Rt.pdf): PDF inclusion: found PDF 
+version <1.5>, but at most version <1.4> allowed
+<Rt.pdf, id=168, 383.95003pt x 237.493pt>
+File: Rt.pdf Graphic file (type pdf)
+ <use Rt.pdf>
+Package pdftex.def Info: Rt.pdf used on input line 214.
+(pdftex.def)             Requested size: 301.14316pt x 186.27658pt.
+ [4]
+Underfull \hbox (badness 10000) in paragraph at lines 230--232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--236
+
+ []
+
+[5 <./Rt.pdf>]
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./Rtau.pdf): PDF inclusion: found PD
+F version <1.5>, but at most version <1.4> allowed
+<Rtau.pdf, id=205, 396.85269pt x 265.16599pt>
+File: Rtau.pdf Graphic file (type pdf)
+ <use Rtau.pdf>
+Package pdftex.def Info: Rtau.pdf used on input line 239.
+(pdftex.def)             Requested size: 301.14316pt x 201.21667pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--250
+
+ []
+
+
+Overfull \hbox (7.22707pt too wide) in paragraph at lines 251--252
+[]\OT1/cmr/m/n/12 Let us cal-cu-late the proper time $\OML/cmm/m/it/12 ^^\[]$ \
+OT1/cmr/m/n/12 that elapses for the par-ti-cle be-tween $\OML/cmm/m/it/12 R \OT
+1/cmr/m/n/12 = \OML/cmm/m/it/12 R[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--256
+
+ []
+
+[6 <./Rtau.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 260--262
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--284
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--293
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 299--304
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
+
+ []
+
+
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./IEF.pdf): PDF inclusion: found PDF
+ version <1.5>, but at most version <1.4> allowed
+<IEF.pdf, id=243, 650.43pt x 284.06125pt>
+File: IEF.pdf Graphic file (type pdf)
+ <use IEF.pdf>
+Package pdftex.def Info: IEF.pdf used on input line 313.
+(pdftex.def)             Requested size: 430.20639pt x 187.88841pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 323--324
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--337
+
+ []
+
+[9 <./IEF.pdf>]
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./OEF.pdf): PDF inclusion: found PDF
+ version <1.5>, but at most version <1.4> allowed
+<OEF.pdf, id=296, 686.565pt x 299.1175pt>
+File: OEF.pdf Graphic file (type pdf)
+ <use OEF.pdf>
+Package pdftex.def Info: OEF.pdf used on input line 342.
+(pdftex.def)             Requested size: 430.20639pt x 187.4272pt.
+ [10 <./OEF.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 362--364
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
+
+ []
+
+
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./ks.pdf): PDF inclusion: found PDF 
+version <1.5>, but at most version <1.4> allowed
+<ks.pdf, id=337, 386.16669pt x 382.69814pt>
+File: ks.pdf Graphic file (type pdf)
+ <use ks.pdf>
+Package pdftex.def Info: ks.pdf used on input line 369.
+(pdftex.def)             Requested size: 258.12645pt x 255.81078pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--376
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 381--384
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 388--392
+
+ []
+
+[12 <./ks.pdf>]
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./wormhole.pdf): PDF inclusion: foun
+d PDF version <1.5>, but at most version <1.4> allowed
+<wormhole.pdf, id=372, 224.6145pt x 195.28693pt>
+File: wormhole.pdf Graphic file (type pdf)
+ <use wormhole.pdf>
+Package pdftex.def Info: wormhole.pdf used on input line 395.
+(pdftex.def)             Requested size: 215.1032pt x 187.02037pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 401--402
+
+ []
+
+[13 <./wormhole.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 407--408
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--415
+
+ []
+
+
+Overfull \hbox (1.24747pt too wide) in paragraph at lines 424--428
+\OT1/cmr/m/n/12 geodesics for $\OML/cmm/m/it/12 g$ \OT1/cmr/m/n/12 cor-re-spond
+ to null geodesics for $[]$ (whereas time-like/spacelike geodesics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--428
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--430
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 431--433
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--457
+
+ []
+
+
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./penrosemink.pdf): PDF inclusion: f
+ound PDF version <1.5>, but at most version <1.4> allowed
+<penrosemink.pdf, id=399, 906.67358pt x 392.52386pt>
+File: penrosemink.pdf Graphic file (type pdf)
+ <use penrosemink.pdf>
+Package pdftex.def Info: penrosemink.pdf used on input line 460.
+(pdftex.def)             Requested size: 430.20639pt x 186.24713pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--468
+
+ []
+
+[15] [16 <./penrosemink.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 484--486
+
+ []
+
+
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./cpmink4draw.pdf): PDF inclusion: f
+ound PDF version <1.5>, but at most version <1.4> allowed
+<cpmink4draw.pdf, id=453, 331.81299pt x 492.30537pt>
+File: cpmink4draw.pdf Graphic file (type pdf)
+ <use cpmink4draw.pdf>
+Package pdftex.def Info: cpmink4draw.pdf used on input line 489.
+(pdftex.def)             Requested size: 132.72284pt x 196.91866pt.
+
+<esumink.pdf, id=454, 361.35pt x 657.26958pt>
+File: esumink.pdf Graphic file (type pdf)
+ <use esumink.pdf>
+Package pdftex.def Info: esumink.pdf used on input line 489.
+(pdftex.def)             Requested size: 107.55159pt x 195.62787pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--500
+
+ []
+
+[17 <./cpmink4draw.pdf> <./esumink.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 503--504
+
+ []
+
+
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./accelerated.pdf): PDF inclusion: f
+ound PDF version <1.5>, but at most version <1.4> allowed
+<accelerated.pdf, id=483, 368.802pt x 211.2101pt>
+File: accelerated.pdf Graphic file (type pdf)
+ <use accelerated.pdf>
+Package pdftex.def Info: accelerated.pdf used on input line 507.
+(pdftex.def)             Requested size: 365.67805pt x 209.43057pt.
+
+[18 <./accelerated.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 521--523
+
+ []
+
+
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./penroserindler.pdf): PDF inclusion
+: found PDF version <1.5>, but at most version <1.4> allowed
+<penroserindler.pdf, id=514, 388.20479pt x 393.47566pt>
+File: penroserindler.pdf Graphic file (type pdf)
+
+<use penroserindler.pdf>
+Package pdftex.def Info: penroserindler.pdf used on input line 526.
+(pdftex.def)             Requested size: 172.07993pt x 174.41467pt.
+ [19 <./penroserindler.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 551--553
+
+ []
+
+
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./cpkruskalcombo.pdf): PDF inclusion
+: found PDF version <1.5>, but at most version <1.4> allowed
+<cpkruskalcombo.pdf, id=543, 593.74397pt x 246.50546pt>
+File: cpkruskalcombo.pdf Graphic file (type pdf)
+
+<use cpkruskalcombo.pdf>
+Package pdftex.def Info: cpkruskalcombo.pdf used on input line 558.
+(pdftex.def)             Requested size: 430.20639pt x 178.61595pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--575
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 581--583
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 584--585
+
+ []
+
+
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./cpdesittercombo.pdf): PDF inclusio
+n: found PDF version <1.5>, but at most version <1.4> allowed
+<cpdesittercombo.pdf, id=558, 868.93616pt x 437.61179pt>
+File: cpdesittercombo.pdf Graphic file (type pdf)
+
+<use cpdesittercombo.pdf>
+Package pdftex.def Info: cpdesittercombo.pdf used on input line 588.
+(pdftex.def)             Requested size: 387.18312pt x 194.99371pt.
+ [21 <./cpkruskalcombo.pdf>]
+<esuds.pdf, id=633, 361.35pt x 564.04428pt>
+File: esuds.pdf Graphic file (type pdf)
+ <use esuds.pdf>
+Package pdftex.def Info: esuds.pdf used on input line 606.
+(pdftex.def)             Requested size: 129.06322pt x 201.45496pt.
+
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./cpnaked.pdf): PDF inclusion: found
+ PDF version <1.5>, but at most version <1.4> allowed
+<cpnaked.pdf, id=634, 337.84113pt x 433.62pt>
+File: cpnaked.pdf Graphic file (type pdf)
+ <use cpnaked.pdf>
+Package pdftex.def Info: cpnaked.pdf used on input line 608.
+(pdftex.def)             Requested size: 150.57486pt x 193.26796pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--621
+
+ []
+
+[22 <./cpdesittercombo.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 622--623
+
+ []
+
+[23 <./esuds.pdf> <./cpnaked.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 640--642
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 653--655
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 677--678
+
+ []
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 681--682
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--710
+
+ []
+
+
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./cprnsub.pdf): PDF inclusion: found
+ PDF version <1.5>, but at most version <1.4> allowed
+<cprnsub.pdf, id=721, 197.24391pt x 433.62pt>
+File: cprnsub.pdf Graphic file (type pdf)
+ <use cprnsub.pdf>
+Package pdftex.def Info: cprnsub.pdf used on input line 713.
+(pdftex.def)             Requested size: 150.57486pt x 331.03671pt.
+ [25] [26 <./cprnsub.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 749--750
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 751--752
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 764--766
+
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 779--781
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 782--783
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 784--785
+
+ []
+
+[28]
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./cpsubkerr.pdf): PDF inclusion: fou
+nd PDF version <1.5>, but at most version <1.4> allowed
+<cpsubkerr.pdf, id=782, 220.06717pt x 433.62pt>
+File: cpsubkerr.pdf Graphic file (type pdf)
+ <use cpsubkerr.pdf>
+Package pdftex.def Info: cpsubkerr.pdf used on input line 788.
+(pdftex.def)             Requested size: 150.57486pt x 296.69708pt.
+ [29 <./cpsubkerr.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 807--808
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 812--814
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 815--816
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 825--826
+
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 838--840
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 841--842
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 847--849
+
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 861--863
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--873
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--889
+
+ []
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 899--901
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 906--907
+
+ []
+
+[33pdfTeX warning (ext4): destination with the same identifier (name{equation.3
+.10}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.919 \ee
+         ]
+Underfull \hbox (badness 10000) in paragraph at lines 931--933
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 950--952
+
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 960--962
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 974--976
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 981--983
+
+ []
+
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 1006--1008
+
+ []
+
+[36pdfTeX warning (ext4): destination with the same identifier (name{equation.3
+.25}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1015 
+       ]
+Underfull \hbox (badness 10000) in paragraph at lines 1022--1024
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1032
+
+ []
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 1041--1044
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1045--1046
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1066--1068
+
+ []
+
+[38]
+Underfull \hbox (badness 10000) in paragraph at lines 1082--1084
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1099--1101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1114--1115
+
+ []
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 1123--1125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1141--1142
+
+ []
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 1143--1144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1145--1146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1150--1152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1160--1162
+
+ []
+
+[41]
+Underfull \hbox (badness 10000) in paragraph at lines 1170--1172
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1186--1188
+
+ []
+
+[42] [43]
+Underfull \hbox (badness 10000) in paragraph at lines 1236--1238
+
+ []
+
+
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./chargeplot3.pdf): PDF inclusion: f
+ound PDF version <1.5>, but at most version <1.4> allowed
+<chargeplot3.pdf, id=966, 361.35pt x 283.62964pt>
+File: chargeplot3.pdf Graphic file (type pdf)
+ <use chargeplot3.pdf>
+Package pdftex.def Info: chargeplot3.pdf used on input line 1241.
+(pdftex.def)             Requested size: 322.65479pt x 253.26051pt.
+
+[44 <./chargeplot3.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 1269--1272
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1293--1294
+
+ []
+
+(./thermotable.tex
+Underfull \hbox (badness 3568) in paragraph at lines 12--12
+[]|\OT1/cmr/m/n/10.95 The tem-per-a-ture $\OML/cmm/m/it/10.95 T$ \OT1/cmr/m/n/1
+0.95 is con-stant
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 12--12
+\OT1/cmr/m/n/10.95 through-out a sys-tem in ther-mal
+ []
+
+) [45]
+
+LaTeX Warning: Command \l invalid in math mode on input line 1311.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1312--1314
+
+ []
+
+[46] [47]
+Underfull \hbox (badness 10000) in paragraph at lines 1366--1368
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1377--1379
+
+ []
+
+[48]
+Underfull \hbox (badness 10000) in paragraph at lines 1393--1395
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1405
+
+ []
+
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 1417--1420
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1424--1426
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1432--1434
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1435--1436
+
+ []
+
+
+Underfull \hbox (badness 3646) in paragraph at lines 1442--1444
+\OT1/cmr/m/n/12 hy-per-sur-face or-thog-o-nal. Then it fol-lows from Frobe-nius
+' the-o-rem that
+ []
+
+[50pdfTeX warning (ext4): destination with the same identifier (name{equation.4
+.19}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1446 \ee
+          ] [51]
+Underfull \hbox (badness 10000) in paragraph at lines 1495--1497
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1501--1503
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1510--1512
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1513--1514
+
+ []
+
+[52]
+Underfull \hbox (badness 10000) in paragraph at lines 1518--1520
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1521--1522
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1532--1535
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1536--1537
+
+ []
+
+[53]
+Overfull \hbox (16.31537pt too wide) in paragraph at lines 1546--1548
+\OT1/cmr/m/n/12 By con-se-quence of the equiv-a-lence prin-ci-ple, ev-ery space
+-time looks lo-cally like Minkowski
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1546--1548
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1556--1558
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1559--1560
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1561--1562
+
+ []
+
+[54]
+Underfull \hbox (badness 10000) in paragraph at lines 1567--1568
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1569--1570
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1571--1572
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1573--1574
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1575--1577
+
+ []
+
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 1578--1579
+
+ []
+
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 1612--1614
+
+ []
+
+[57] [58]
+Underfull \hbox (badness 10000) in paragraph at lines 1652--1653
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1662--1664
+
+ []
+
+[59]
+Underfull \hbox (badness 10000) in paragraph at lines 1673--1675
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1687--1689
+
+ []
+
+[60]
+Underfull \hbox (badness 2744) in paragraph at lines 1706--1709
+\OT1/cmr/m/n/12 We can also re-late the dif-fer-ent op-er-a-tor co-ef-fi-cients
+ to each other, e.g.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1706--1709
+
+ []
+
+[61]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1717.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1717.
+
+
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./cprindlermink.pdf): PDF inclusion:
+ found PDF version <1.5>, but at most version <1.4> allowed
+<cprindlermink.pdf, id=1148, 361.35pt x 360.77185pt>
+File: cprindlermink.pdf Graphic file (type pdf)
+ <use cprindlermink.pdf>
+Package pdftex.def Info: cprindlermink.pdf used on input line 1720.
+(pdftex.def)             Requested size: 172.07993pt x 171.80328pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1726--1727
+
+ []
+
+[62 <./cprindlermink.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 1751--1754
+
+ []
+
+(./rindlertable)
+Underfull \hbox (badness 10000) in paragraph at lines 1757--1758
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1759--1760
+
+ []
+
+[63]
+Underfull \hbox (badness 10000) in paragraph at lines 1776--1778
+
+ []
+
+[64pdfTeX warning (ext4): destination with the same identifier (name{equation.5
+.25}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1784 \be
+          pdfTeX warning (ext4): destination with the same identifier (name{equ
+ation.5.25}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1784 \be
+          ]
+Underfull \hbox (badness 10000) in paragraph at lines 1786--1788
+
+ []
+
+[65]
+Underfull \hbox (badness 10000) in paragraph at lines 1828--1830
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1831--1832
+
+ []
+
+
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./contour.pdf): PDF inclusion: found
+ PDF version <1.5>, but at most version <1.4> allowed
+<contour.pdf, id=1217, 531.23659pt x 275.44113pt>
+File: contour.pdf Graphic file (type pdf)
+ <use contour.pdf>
+Package pdftex.def Info: contour.pdf used on input line 1844.
+(pdftex.def)             Requested size: 322.65479pt x 167.29593pt.
+ [66]
+[67 <./contour.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 1863--1865
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1869--1871
+
+ []
+
+[68]
+Underfull \hbox (badness 10000) in paragraph at lines 1911--1913
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1919--1920
+
+ []
+
+[69]
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./collapsingstar.pdf): PDF inclusion
+: found PDF version <1.5>, but at most version <1.4> allowed
+<collapsingstar.pdf, id=1273, 141.36282pt x 210.16243pt>
+File: collapsingstar.pdf Graphic file (type pdf)
+
+<use collapsingstar.pdf>
+Package pdftex.def Info: collapsingstar.pdf used on input line 1930.
+(pdftex.def)             Requested size: 107.55159pt x 159.89827pt.
+ [70]
+Underfull \hbox (badness 10000) in paragraph at lines 1942--1943
+
+ []
+
+[71 <./collapsingstar.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 1963--1966
+
+ []
+
+
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./sspot.pdf): PDF inclusion: found P
+DF version <1.5>, but at most version <1.4> allowed
+<sspot.pdf, id=1311, 380.82985pt x 200.94269pt>
+File: sspot.pdf Graphic file (type pdf)
+ <use sspot.pdf>
+Package pdftex.def Info: sspot.pdf used on input line 1969.
+(pdftex.def)             Requested size: 322.65479pt x 170.25325pt.
+ [72 <./sspot.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 1989--1991
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1992--1993
+
+ []
+
+
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./collapsingstarhawkrad.pdf): PDF in
+clusion: found PDF version <1.5>, but at most version <1.4> allowed
+<collapsingstarhawkrad.pdf, id=1335, 173.7973pt x 195.73927pt>
+File: collapsingstarhawkrad.pdf Graphic file (type pdf)
+
+<use collapsingstarhawkrad.pdf>
+Package pdftex.def Info: collapsingstarhawkrad.pdf used on input line 1996.
+(pdftex.def)             Requested size: 215.1032pt x 242.2811pt.
+ [73]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2015.
+ [74 <./collapsingstarhawkrad.pdf>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2015.
+
+(./bh.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2015.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2015.
+
+Package rerunfilecheck Info: File `bh.out' has not changed.
+(rerunfilecheck)             Checksum: A7004A51E5F1A68A4453BCCD3D8A496C;1848.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2015.
+ ) 
+Here is how much of TeX's memory you used:
+ 13776 strings out of 493117
+ 226328 string characters out of 6135433
+ 310552 words of memory out of 5000000
+ 16626 multiletter control sequences out of 15000+600000
+ 21278 words of font info for 77 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,18n,37p,10342b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
+sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
+/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/l
+ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loc
+al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local
+/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texl
+ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/20
+14/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/201
+4/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/201
+4/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2014/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2014/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2014/texmf
+-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2014/t
+exmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on bh.pdf (75 pages, 5910904 bytes).
+PDF statistics:
+ 1540 PDF objects out of 1728 (max. 8388607)
+ 384 named destinations out of 1000 (max. 500000)
+ 316 words of extra memory for PDF output out of 10000 (max. 10000000)
+
